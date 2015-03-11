@@ -1,3 +1,3 @@
 #Fork of Skeleton.scss
 
-contains changes to the design of the grid
+contains some bug fixes and changes to the design of the grid
